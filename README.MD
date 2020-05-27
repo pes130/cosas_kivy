@@ -1,5 +1,5 @@
 # Cosas de kivy
-Repositorio para recopilar cosas que voy aprendiendo de kivy.
+Repositorio para recopilar cosas que voy aprendiendo de kivy
 
 Lo voy a organizar del siguiente modo:
 1. **tutorial.py**: aplicación básica en kivy
